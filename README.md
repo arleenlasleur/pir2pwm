@@ -8,5 +8,5 @@ Parts used:
 * IRFZ48N, no matter fake or not
 * wires for jumpers
 
-Stay on time: defined in MAX_NO_MOTION (ms)
+Stay on time: defined in MAX_NO_MOTION (ms)  
 Turnon time: STEP_LEVEL * 64 (ms)
